@@ -1,3 +1,4 @@
+Rock Pper Scissors Game :
 This project is a simple implementation of the classic "Rock, Paper, Scissors" game, built using HTML, CSS, and JavaScript. The game allows a user to play Rock, Paper, Scissors against the computer. The user can select their move by clicking on the corresponding button, and the computer randomly selects its move. The game then determines the winner based on the standard rules of Rock, Paper, Scissors and displays the result to the user.
 
 Features
